@@ -743,7 +743,7 @@ echo "Tanggal saat ini: $date<br>";
 - jalankan
   
 ```  
-lynx http://10.67.1.2:8080
+lynx http://10.676.2.3:8080
 ```
 
 ![Screenshot 2024-05-04 205242](https://github.com/radithyaarka/Jarkom-Modul-2-IT25-2024/assets/143694651/e1022e3f-1a22-4466-9491-8aebfd274374)
@@ -809,7 +809,6 @@ a2enmod lbmethod_bytraffic
 - kembali ke root dan restart
 
 `service apache2 restart`
-![image](https://github.com/radithyaarka/Jarkom-Modul-2-IT25-2024/assets/143694651/94dbf3ca-838c-4018-9f36-2c62484e88b5)
 
 ## Soal 15
 Markas pusat meminta laporan hasil benchmark dengan menggunakan apache benchmark dari load balancer dengan 2 web server yang berbeda tersebut dan meminta secara detail dengan ketentuan:
